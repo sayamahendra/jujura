@@ -1,6 +1,3 @@
-<!-- <font color="orange"> -->
-<?php echo $this->session->flashdata('hasil'); ?>
-</font>
 <!DOCTYPE html>
 <html lang="en">
 <head>
