@@ -7,7 +7,7 @@
 </head>
 <body>
     <ul>
-    <li><a href="http://localhost/jujura/index.php/register/create">Register</a></li>
+    <li><a href="http://localhost/jujura/index.php/register/">Register</a></li>
     <li><a href="http://localhost/jujura/index.php/product/">Product</a></li>
     <li><a href="http://localhost/jujura/index.php/sales/">Sales</a></li>
     </ul>
